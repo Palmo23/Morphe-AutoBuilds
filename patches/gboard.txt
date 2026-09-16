@@ -1,0 +1,40 @@
++ Advanced Voice Typing
++ Add Gboard Signature Bypass
++ Developer options
+- FTP Server
+- Quick Insert
+- Web Clipboard
+- Custom Symbols
+- Grammar Checker
+- AI Writing Tools
+- Backup & Restore
+- Change emoji size
+- Simple Calculator
+- G Logo on Spacebar
+- Inline Suggestions
+- Floating Web Search
+- Key Shape Selection
+- Enable split keyboard
+- Incognito Mode Toggle
+- Clipboard Enhancements
+- Enable OCR / Scan Text
+- Rounded Keyboard Panel
+- Top Toolbar Item Count
+- Access Points menu style
+- Swipeable Custom Top Row
+- Use Bluetooth Microphone
+- Settings Homepage Override
+- Close Proactive Suggestions
+- Enable accessibility layout
+- Enable cursor trackpad mode
+- Hyperspeed Typing Animation
+- Long-Press Editing Shortcuts
+- Latin Globe Key Ignore Interval
+- Clipboard Custom Character Limit
+- Emojis, stickers & GIFs Tab Order
+- English QWERTY Up-Flick Uppercase
+- Enable Inline Autofill Suggestions
+- Zhuyin Slide Input
+- Zhuyin Bottom Row Key Sizes
+- Zhuyin Quick Traditional/Simplified Toggle
+- Package Rename
