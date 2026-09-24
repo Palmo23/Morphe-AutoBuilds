@@ -1,12 +1,12 @@
 + Advanced Voice Typing
 + Add Gboard Signature Bypass
-+ Developer options
+- Developer options
 - FTP Server
 - Quick Insert
 - Web Clipboard
 - Custom Symbols
 - Grammar Checker
-- AI Writing Tools
++ AI Writing Tools
 - Backup & Restore
 - Change emoji size
 - Simple Calculator
@@ -37,4 +37,4 @@
 - Zhuyin Slide Input
 - Zhuyin Bottom Row Key Sizes
 - Zhuyin Quick Traditional/Simplified Toggle
-- Package Rename
++ Package Rename
