@@ -1,4 +1,15 @@
-{
-  "name": "hushfeed",
-  "bundle_url": "https://raw.githubusercontent.com/SysAdminDoc/HushFeed/main/patches-bundle.json"
-}
+[
+    {
+      "name": "morphe-patches"
+    },
+    {
+      "user": "MorpheApp",
+      "repo": "morphe-cli",
+      "tag": "latest"
+    },
+    {
+      "user": "SysAdminDoc",
+      "repo": "hushfeed",
+      "tag": "latest"
+    }
+]
